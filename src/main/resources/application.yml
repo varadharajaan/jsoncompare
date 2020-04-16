@@ -47,9 +47,9 @@ spring:
   autoconfigure:
     exclude: org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration
   datasource:
-    url: jdbc:mysql://SG-pte-31981.servers.mongodirector.com:3306/pte
+    url: jdbc:mysql://SG-json-31981.servers.mongodirector.com:3306/json
     username: sgroot
-    password: RZ4lh2VZ.f77uJQv
+    password: UZoWN8He.eNwJuI9
     hikari:
       connectionTimeout: 20000
       maximumPoolSize: 5

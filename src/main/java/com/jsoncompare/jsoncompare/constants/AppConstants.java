@@ -1,10 +1,7 @@
 package com.jsoncompare.jsoncompare.constants;
 
 
-/**
- * @Author Varadharajan
- * @Projectname employee-management
- */
+
 
 public class AppConstants {
 
