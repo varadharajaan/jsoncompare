@@ -47,7 +47,7 @@ spring:
   autoconfigure:
     exclude: org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration
   datasource:
-    url: jdbc:mysql://SG-json-31981.servers.mongodirector.com:3306/json
+    url: jdbc:mysql://SG-json-2191-master.servers.mongodirector.com:3306/json
     username: sgroot
     password: UZoWN8He.eNwJuI9
     hikari:
